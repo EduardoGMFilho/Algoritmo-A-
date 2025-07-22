@@ -24,7 +24,7 @@ O A* é uma das bases da IA clássica em problemas de planejamento e navegação
 - Ser aplicável a diversos domínios reais
 
 
-Exemplos de uso:
+## Exemplos de uso:
 -Planejamento de rotas em mapas
 
 -Inteligência artificial em jogos (ex: movimentação de NPCs)
@@ -38,7 +38,7 @@ Exemplos de uso:
 
 
 
-Conceitos Utilizados : 
+## Conceitos Utilizados : 
 
 -Estrutura de grafos (arestas, nós, pesos)
 
